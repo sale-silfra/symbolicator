@@ -21,5 +21,14 @@
 
   "[markdown]": {
     "editor.rulers": [80]
-  }
+  },
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}\\source",
+    "${workspaceFolder}\\include"
+  ],
+  "C_Cpp.default.defines": [],
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}\\common",
+    "${workspaceFolder}\\rules"
+  ]
 }
